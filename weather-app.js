@@ -14,7 +14,7 @@ weather.temperature = {
 }
 // const variable for temp conversion
 const KELVIN = 273;
-//personal api key from openweathermap.org - if you're copying this repo, please get your own key 
+//personal api key from openweathermap.org - 
 const key = "a34470d4bd974a51b1c143b8ddf29929";
 
 //geolocation checking - allow in browser & may need to disable adblocker
